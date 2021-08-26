@@ -166,7 +166,7 @@ Now, add ```--watch``` at the ```start``` script line.
 "scripts": {
     "test": "jest",
     "test:watch": "jest --watchAll",
-    "start": "pm2 start index.js"
+    "start": "pm2 start index.js --watch"
   },
 ```
 
