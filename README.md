@@ -126,6 +126,7 @@ Update your ```addition.test.js``` to add some others test, then save changes.
 ## Fizzbuzz kata
 
 Following this exercices (https://codingdojo.org/kata/FizzBuzz/), write a js module that implement fizzbuzz function, taking a parameter and return fizz, buzz, fizzbuzz or an integer, by "baby step".
+
 In //, write unit tests to test each case.
 
 ## PM2
